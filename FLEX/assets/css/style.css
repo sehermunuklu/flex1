@@ -1,0 +1,92 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+  color: #ffffff;
+}
+.nav {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  margin: 0 auto;
+}
+.button2 {
+  background-color: orange;
+}
+.hero {
+  display: flex;
+  gap: 20px;
+}
+
+.header {
+  display: flex;
+  gap: 40px;
+}
+p {
+  left: 9.38%;
+  right: 64.93%;
+  top: 3.59%;
+  bottom: 95.79%;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+h1 {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 80px;
+  color: black;
+  color: #ffffff;
+}
+
+.container {
+  background-color: #434ccc;
+}
+.yellow {
+  background-color: #f1b505;
+  height: 500px;
+}
+h2 {
+  height: 64px;
+  left: 33.75%;
+  right: 33.68%;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  text-align: center;
+  color: #000000;
+}
+
+.yellow p {
+  text-align: center;
+  left: 30.21%;
+  right: 30.21%;
+  top: 7.96%;
+  bottom: 91.32%;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #000000;
+}
+
+div .card {
+  display: flex;
+  gap: 40px;
+  margin-left: 80px;
+}
+
+
+.but{
+  border-radius: 20px;
+    background-color: orange;
+  
+
+}
